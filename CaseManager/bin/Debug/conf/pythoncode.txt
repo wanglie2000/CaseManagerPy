@@ -1,0 +1,14 @@
+﻿class TmpCase(MyTestCase):
+
+    def test(self):
+        print("test-----------------")
+        pP = PageOfPublic(self.pars, None, self.logger)
+
+        
+$CODES$
+        
+        
+    def setUp(self):
+        self.testClassName = __name__
+        #print("类名=" + __name__)
+        MyTestCase.setUp(self)

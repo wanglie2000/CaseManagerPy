@@ -1,0 +1,11 @@
+E:\myCsharp\CaseManager\CaseManager\bin\Release\CaseManager.exe
+E:\myCsharp\CaseManager\CaseManager\bin\Release\CaseManager.pdb
+E:\myCsharp\CaseManager\CaseManager\bin\Release\NPOI.dll
+E:\myCsharp\CaseManager\CaseManager\obj\x86\Release\CaseManager.csprojResolveAssemblyReference.cache
+E:\myCsharp\CaseManager\CaseManager\obj\x86\Release\CaseManager.Form1.resources
+E:\myCsharp\CaseManager\CaseManager\obj\x86\Release\CaseManager.Properties.Resources.resources
+E:\myCsharp\CaseManager\CaseManager\obj\x86\Release\CaseManager.csproj.GenerateResource.Cache
+E:\myCsharp\CaseManager\CaseManager\obj\x86\Release\CaseManager.exe
+E:\myCsharp\CaseManager\CaseManager\obj\x86\Release\CaseManager.pdb
+E:\myCsharp\CaseManagerPy\CaseManager\obj\x86\Release\CaseManager.exe
+E:\myCsharp\CaseManagerPy\CaseManager\obj\x86\Release\CaseManager.pdb
